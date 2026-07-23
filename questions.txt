@@ -1,0 +1,652 @@
+#Hardware_Subfield_1
+Do you enjoy assembling and troubleshooting PCs?
+Do you like designing circuits and systems?
+Do you enjoy working with hardware components?
+Do you prefer understanding low-level architecture?
+Do you like optimizing hardware performance?
+Do you enjoy building custom computers?
+Do you like studying CPU and memory architecture?
+Do you enjoy testing hardware for defects?
+Do you like upgrading and improving hardware systems?
+Do you enjoy exploring new hardware technologies?
+
+#Hardware_Subfield_2
+Do you enjoy configuring networks?
+Do you like understanding protocols and data flow?
+Do you enjoy troubleshooting network issues?
+Do you prefer working with routers, switches, and firewalls?
+Do you like network optimization and security?
+Do you enjoy working with wireless networks?
+Do you like VPNs and secure communications?
+Do you enjoy monitoring traffic and performance?
+Do you like planning network layouts?
+Do you enjoy learning new networking technologies?
+
+#Hardware_Subfield_3
+Do you enjoy setting up servers and virtual machines?
+Do you like managing cloud resources?
+Do you enjoy optimizing infrastructure performance?
+Do you prefer automating deployment processes?
+Do you like working with cloud security?
+Do you enjoy building virtual networks?
+Do you like monitoring cloud costs?
+Do you enjoy scaling infrastructure for performance?
+Do you like learning new cloud platforms?
+Do you enjoy deploying multi-region systems?
+
+#Hardware_Subfield_4
+Do you enjoy programming microcontrollers?
+Do you like working with sensors and devices?
+Do you enjoy embedded software development?
+Do you prefer IoT communication protocols?
+Do you like optimizing embedded systems performance?
+Do you enjoy creating smart devices?
+Do you like integrating hardware and software?
+Do you enjoy debugging embedded systems?
+Do you like learning new microcontroller platforms?
+Do you enjoy working on real-time systems?
+
+
+#Software_Subfield_1
+Do you enjoy solving algorithmic problems?
+Do you like building complete applications (logic, UI, tests)?
+Do you enjoy system-level and performance-critical programming?
+Do you enjoy debugging and fixing complex bugs?
+Do you like working in teams on large projects?
+Do you prefer mobile app development (Android/iOS)?
+Do you like creating interactive experiences (games, simulations)?
+Do you enjoy learning new programming languages quickly?
+Do you prefer back-end logic more than UI design?
+Do you enjoy optimizing code for performance and efficiency?
+
+#Software_Subfield_2
+Do you like designing user interfaces?
+Do you enjoy writing HTML, CSS, JavaScript?
+Do you prefer backend logic and APIs?
+Do you enjoy building responsive web apps?
+Do you like connecting databases with applications?
+Do you enjoy working with frameworks (React, Angular)?
+Do you prefer working with server-side tech (Node, Django)?
+Do you like debugging frontend issues?
+Do you enjoy improving web performance?
+Do you like deploying apps to the cloud?
+
+#Software_Subfield_3
+
+Do you like working with large datasets?
+Do you enjoy writing SQL queries?
+Do you prefer designing schemas and relationships?
+Do you like optimizing database performance?
+Do you enjoy data modeling for analytics?
+Do you like working with cloud databases?
+Do you enjoy backup and recovery planning?
+Do you prefer ensuring data security?
+Do you like ETL pipelines and data ingestion?
+Do you enjoy working with BI tools?
+
+#Software_Subfield_4
+Do you enjoy finding vulnerabilities in systems?
+Do you like penetration testing?
+Do you prefer incident response and monitoring?
+Do you like network security?
+Do you enjoy cryptography and secure protocols?
+Do you prefer low-level security (exploit development)?
+Do you like malware analysis?
+Do you enjoy compliance and audits?
+Do you like designing security architectures?
+Do you prefer hands-on lab exercises?
+
+#Software_Subfield_5
+Do you enjoy statistics and probability?
+Do you like analyzing datasets?
+Do you prefer building ML models?
+Do you enjoy coding for data science?
+Do you like visualization and storytelling?
+Do you enjoy deep learning and AI research?
+Do you prefer cloud ML services?
+Do you like deploying ML models?
+Do you enjoy feature engineering?
+Do you like experimentation and validation?
+
+
+#Software_Subfield_6
+Do you enjoy visual design?
+Do you like user experience and testing?
+Do you enjoy prototyping and wireframes?
+Do you like analyzing user behavior?
+Do you prefer interactive design?
+Do you enjoy accessibility compliance?
+Do you like working on apps and websites?
+Do you enjoy graphic design tools?
+Do you prefer research-driven design?
+Do you like improving usability iteratively?
+
+
+#Medicine_Subfield_1
+Do you enjoy patient care?
+Do you like diagnosing common diseases?
+Do you prefer outpatient care?
+Do you enjoy preventative medicine?
+Do you like building long-term patient relationships?
+Do you enjoy teamwork in hospitals?
+Do you like continuing medical education?
+Do you enjoy managing chronic illnesses?
+Do you prefer clinical decision making?
+Do you like using modern diagnostic tools?
+
+
+#Medicine_Subfield_2
+Do you enjoy performing surgeries?
+Do you like precision work with your hands?
+Do you enjoy emergency interventions?
+Do you prefer operating room environment?
+Do you like learning complex procedures?
+Do you enjoy teamwork in surgery?
+Do you like critical decision making?
+Do you enjoy pre/post-operative care?
+Do you like specializing in specific organs?
+Do you enjoy surgical research and innovation?
+
+
+#Medicine_Subfield_3
+Do you enjoy working with children?
+Do you like monitoring child growth and development?
+Do you prefer diagnosing pediatric illnesses?
+Do you enjoy immunizations and preventive care?
+Do you like counseling parents?
+Do you enjoy pediatric emergencies?
+Do you prefer teamwork with pediatric nurses?
+Do you enjoy child nutrition and wellness?
+Do you like educational programs for children?
+Do you enjoy continuous learning in pediatrics?
+
+#Medicine_Subfield_4
+Do you enjoy lab work?
+Do you like designing experiments?
+Do you prefer studying diseases?
+Do you enjoy analyzing data?
+Do you like publishing research papers?
+Do you enjoy collaborating with other scientists?
+Do you like clinical trials?
+Do you enjoy grant writing?
+Do you prefer translational research?
+Do you enjoy staying updated on medical innovations?
+
+
+#Engineering_Subfield_1
+Do you enjoy designing machines and engines?
+Do you like thermodynamics and energy systems?
+Do you prefer CAD design and simulations?
+Do you enjoy testing mechanical prototypes?
+Do you like working on robotics and automation?
+Do you prefer manufacturing processes?
+Do you like solving mechanical system failures?
+Do you enjoy fluid mechanics?
+Do you like vehicle/mechanical design?
+Do you enjoy learning modern manufacturing tech?
+
+#Engineering_Subfield_2
+Do you enjoy designing buildings and structures?
+Do you like working on construction projects?
+Do you prefer geotechnical engineering?
+Do you enjoy environmental engineering?
+Do you like road/bridge design?
+Do you prefer fieldwork at sites?
+Do you enjoy structural analysis?
+Do you like surveying and planning?
+Do you enjoy infrastructure projects?
+Do you like sustainable design?
+
+#Engineering_Subfield_3
+Do you enjoy working with circuits and electronics?
+Do you like designing electrical systems?
+Do you prefer power engineering?
+Do you enjoy working with renewable energy?
+Do you like control systems?
+Do you prefer communication systems?
+Do you enjoy PCB design?
+Do you like automation and control?
+Do you enjoy microelectronics?
+Do you like smart grid technologies?
+
+#Engineering_Subfield_4
+Do you enjoy combining hardware and software?
+Do you like embedded systems?
+Do you prefer designing computer architectures?
+Do you enjoy robotics and IoT?
+Do you like programming microcontrollers?
+Do you prefer digital design (FPGA, VHDL)?
+Do you enjoy system-level optimization?
+Do you like AI hardware accelerators?
+Do you enjoy hardware-software integration?
+Do you like building smart devices?
+
+
+#Education_Subfield_1
+Do you enjoy teaching children and teenagers?
+Do you like preparing lesson plans?
+Do you enjoy classroom management?
+Do you prefer creative teaching methods?
+Do you like mentoring students?
+Do you enjoy grading assignments?
+Do you like working in a school environment?
+Do you prefer extracurricular activities?
+Do you enjoy storytelling and demonstrations?
+Do you like motivating young learners?
+
+#Education_Subfield_2
+Do you enjoy teaching at advanced academic level?
+Do you like doing research?
+Do you prefer guiding undergraduate students?
+Do you enjoy writing academic papers?
+Do you like giving lectures?
+Do you prefer supervising student projects?
+Do you enjoy conferences and seminars?
+Do you like a flexible academic environment?
+Do you enjoy grading research reports?
+Do you like lifelong learning?
+
+#Education_Subfield_3
+Do you enjoy using technology in education?
+Do you like designing e-learning content?
+Do you prefer developing online courses?
+Do you enjoy working with Learning Management Systems?
+Do you like educational apps?
+Do you enjoy blending teaching with technology?
+Do you like video-based learning?
+Do you enjoy virtual/AR learning?
+Do you prefer working in digital teams?
+Do you like experimenting with new tools?
+
+#Education_Subfield_4
+Do you enjoy planning and organizing?
+Do you like managing staff?
+Do you prefer creating school/university policies?
+Do you enjoy student administration?
+Do you like budgeting and finance?
+Do you prefer public speaking?
+Do you enjoy supervising teachers?
+Do you like organizing events?
+Do you enjoy leadership?
+Do you like decision making?
+
+#Entertainment_Subfield_1
+Do you enjoy performing in front of people?
+Do you like memorizing scripts?
+Do you enjoy acting in different roles?
+Do you enjoy screen acting?
+Do you like working in creative teams?
+Do you enjoy rehearsals?
+Do you like expressing emotions?
+Do you prefer live audience feedback?
+Do you enjoy fame and publicity?
+Do you like continuous learning of acting skills?
+
+#Entertainment_Subfield_2
+Do you enjoy playing musical instruments?
+Do you like singing?
+Do you prefer composing songs?
+Do you enjoy live concerts?
+Do you like practicing regularly?
+Do you enjoy working in a band?
+Do you prefer studio recording?
+Do you enjoy experimenting with sounds?
+Do you like performing to an audience?
+Do you want to pursue music as career?
+
+#Entertainment_Subfield_3
+Do you enjoy dancing in front of people?
+Do you like practicing dance routines?
+Do you enjoy solo performances?
+Do you enjoy group performances?
+Do you enjoy learning different dance styles?
+Do you like expressing emotions through dance?
+Do you enjoy choreography?
+Do you like performing on stage?
+Do you enjoy teaching dance to others?
+Do you want to pursue dance as career?
+
+#Entertainment_Subfield_4
+Do you enjoy storytelling?
+Do you like directing people?
+Do you prefer writing scripts?
+Do you enjoy cinematography?
+Do you like editing videos?
+Do you enjoy working with actors?
+Do you prefer film production?
+Do you like working under pressure?
+Do you enjoy project management?
+Do you like film festivals?
+
+#Entertainment_Subfield_5
+Do you enjoy creating video games?
+Do you like animation?
+Do you prefer digital arts?
+Do you enjoy sound design?
+Do you like working in creative projects?
+Do you enjoy 3D modeling?
+Do you prefer working with teams?
+Do you enjoy storytelling with media?
+Do you like experimenting with software?
+Do you want to work in gaming industry?
+
+#Art_Subfield_1
+Do you enjoy painting with colors?
+Do you like sketching and drawing?
+Do you enjoy experimenting with art styles?
+Do you prefer traditional painting techniques?
+Do you like creating artworks for exhibitions?
+Do you enjoy expressing emotions through art?
+Do you like art history?
+Do you prefer working with oil/watercolor?
+Do you like making original artworks?
+Do you enjoy creative freedom?
+
+#Art_Subfield_2
+Do you enjoy creating 3D objects?
+Do you like working with clay/stone/wood?
+Do you prefer large-scale artistic works?
+Do you enjoy hands-on craft?
+Do you like designing monuments?
+Do you enjoy experimenting with sculpture materials?
+Do you prefer modern sculpture?
+Do you like working in studios?
+Do you enjoy detailed craftsmanship?
+Do you like expressing stories in 3D?
+
+#Art_Subfield_3
+Do you enjoy using design software?
+Do you like creating logos and branding?
+Do you prefer digital creativity?
+Do you enjoy making posters and brochures?
+Do you like combining art with marketing?
+Do you enjoy typography?
+Do you prefer teamwork in projects?
+Do you like designing for web/apps?
+Do you enjoy making visual identities?
+Do you like innovative designs?
+
+#Art_Subfield_4
+Do you enjoy taking photos?
+Do you like editing photos?
+Do you prefer outdoor/indoor photography?
+Do you enjoy storytelling through photos?
+Do you like using DSLR/camera gear?
+Do you prefer event photography?
+Do you enjoy portrait photography?
+Do you like experimenting with lighting?
+Do you enjoy travel photography?
+Do you like freelance work?
+
+#Economic_Subfield_1
+Do you enjoy studying markets and economic systems?
+Do you like analyzing data and statistics?
+Do you prefer working with economic models?
+Do you enjoy writing economic reports?
+Do you enjoy doing research?
+Do you prefer long-term analysis?
+Do you enjoy publishing economic papers?
+Do you like global economic issues?
+Do you enjoy critical thinking?
+Do you like lifelong research?
+
+#Economic_Subfield_2
+Do you enjoy analyzing company financial statements?
+Do you like stock markets?
+Do you prefer investment analysis?
+Do you enjoy financial modeling?
+Do you like advising events?
+Do you enjoy working with spreadsheets?
+Do you like risk assessment?
+Do you prefer working in banks or firms?
+Do you enjoy forecasting financial trends?
+Do you like decision-making under pressure?
+
+#Economic_Subfield_3
+Do you enjoy studying consumer behavior?
+Do you like survey design?
+Do you prefer analyzing trends?
+Do you enjoy working with marketing teams?
+Do you like using statistical software?
+Do you enjoy preparing reports?
+Do you prefer applied economics?
+Do you like presenting findings?
+Do you enjoy strategic thinking?
+Do you like business decision-making?
+
+#Economic_Subfield_4
+Do you enjoy working with government and NGOs?
+Do you like analyzing public policy?
+Do you prefer research and reports?
+Do you enjoy drafting recommendations?
+Do you like economic development?
+Do you enjoy teamwork with policymakers?
+Do you like evaluating laws and policies?
+Do you prefer presenting to stakeholders?
+Do you enjoy long-term planning?
+Do you like international development?
+
+#Law_Subfield_1
+Do you enjoy courtroom work?
+Do you like investigating cases?
+Do you prefer defending clients?
+Do you enjoy legal research?
+Do you like writing legal documents?
+Do you enjoy negotiation?
+Do you prefer criminal law procedures?
+Do you like critical thinking?
+Do you enjoy public speaking?
+Do you like helping victims and accused?
+
+#Law_Subfield_2
+Do you enjoy working with businesses?
+Do you like contract drafting?
+Do you prefer corporate compliance?
+Do you enjoy mergers & acquisitions?
+Do you like negotiation?
+Do you enjoy corporate governance?
+Do you prefer business law research?
+Do you like advising executives?
+Do you enjoy problem solving?
+Do you like teamwork?
+
+#Law_Subfield_3
+Do you enjoy advocating for human rights?
+Do you like legal research?
+Do you prefer working with NGOs?
+Do you enjoy litigation?
+Do you like public speaking?
+Do you enjoy drafting policies?
+Do you prefer international law?
+Do you like social justice issues?
+Do you enjoy negotiation?
+Do you like critical thinking?
+
+#Law_Subfield_4
+Do you enjoy advising organizations?
+Do you like contract review?
+Do you prefer corporate law?
+Do you enjoy risk management?
+Do you like legal compliance?
+Do you enjoy problem solving?
+Do you prefer consulting clients?
+Do you like strategic planning?
+Do you enjoy teamwork?
+Do you like drafting legal documents?
+
+#Law_Subfield_5
+Do you enjoy working on environmental issues?
+Do you like policy and regulation?
+Do you prefer litigation?
+Do you enjoy research on environmental law?
+Do you like negotiation?
+Do you enjoy advising NGOs or companies?
+Do you prefer international environmental law?
+Do you like public speaking?
+Do you enjoy problem solving?
+Do you like advocacy?
+
+#Law_Subfield_6
+Do you enjoy patents and trademarks?
+Do you like copyright law?
+Do you prefer corporate IP issues?
+Do you enjoy legal research?
+Do you like drafting IP contracts?
+Do you enjoy litigation?
+Do you prefer advising startups or companies?
+Do you like problem solving?
+Do you enjoy negotiation?
+Do you like protecting innovations?
+
+#Politics_Subfield_1
+Do you enjoy public speaking?
+Do you like working with communities?
+Do you prefer policy-making?
+Do you enjoy leadership roles?
+Do you like networking and negotiation?
+Do you enjoy campaigning?
+Do you prefer legislative work?
+Do you like strategic planning?
+Do you enjoy problem solving?
+Do you like influencing public opinion?
+
+#Politics_Subfield_2
+Do you enjoy analyzing public policy?
+Do you like research and data analysis?
+Do you prefer working with government or NGOs?
+Do you enjoy writing policy briefs?
+Do you like advising policymakers?
+Do you enjoy strategic thinking?
+Do you prefer social and economic issues?
+Do you like teamwork?
+Do you enjoy problem solving?
+Do you like long-term planning?
+
+#Politics_Subfield_3
+Do you enjoy international relations?
+Do you like negotiation and diplomacy?
+Do you prefer working abroad?
+Do you enjoy cultural exchange?
+Do you like problem solving in global context?
+Do you enjoy policy advising?
+Do you prefer working with embassies?
+Do you like language skills?
+Do you enjoy teamwork?
+Do you like strategic planning?
+
+#Politics_Subfield_4
+Do you enjoy advising politicians?
+Do you like campaign strategy?
+Do you prefer data-driven decisions?
+Do you enjoy public opinion analysis?
+Do you like communication planning?
+Do you enjoy problem solving?
+Do you prefer media and PR?
+Do you like negotiation?
+Do you enjoy teamwork?
+Do you like strategic thinking?
+
+#Politics_Subfield_5
+Do you enjoy organizing campaigns?
+Do you like fundraising?
+Do you prefer team management?
+Do you enjoy strategic planning?
+Do you like communication and media?
+Do you enjoy problem solving?
+Do you prefer voter outreach?
+Do you like analyzing polling data?
+Do you enjoy leadership?
+Do you like results-oriented work?
+
+#Politics_Subfield_6
+Do you enjoy media relations?
+Do you like policy communication?
+Do you enjoy government work?
+Do you enjoy corporate work?
+Do you enjoy lobbying?
+Do you like public speaking?
+Do you enjoy problem solving?
+Do you prefer strategic planning?
+Do you enjoy writing press releases?
+Do you like advocacy?
+
+#Other_Subfield_1
+Do you enjoy physical activity?
+Do you like coaching sports?
+Do you enjoy health and fitness?
+Do you like competitive environment?
+Do you enjoy motivating others?
+Do you like planning training programs?
+Do you enjoy teamwork in sports?
+Do you like monitoring performance metrics?
+Do you enjoy attending sports events?
+Do you like lifelong learning in fitness?
+
+#Other_Subfield_2
+Do you enjoy writing and reporting?
+Do you like researching stories?
+Do you prefer public speaking?
+Do you enjoy storytelling?
+Do you like multimedia production?
+Do you enjoy interviewing people?
+Do you like working under deadlines?
+Do you enjoy fact-checking information?
+Do you like editing and publishing?
+Do you enjoy analyzing media trends?
+
+#Other_Subfield_3
+Do you enjoy conducting experiments?
+Do you like analyzing data?
+Do you prefer lab work?
+Do you enjoy publishing research?
+Do you like solving complex problems?
+Do you enjoy collaborating with other scientists?
+Do you like applying scientific methods?
+Do you enjoy presenting results?
+Do you like using technology in research?
+Do you enjoy lifelong learning in science?
+
+#Other_Subfield_4
+Do you enjoy working with people?
+Do you like organizing events?
+Do you prefer travel and tourism?
+Do you enjoy customer service?
+Do you like planning trips and activities?
+Do you enjoy marketing and promotions?
+Do you like managing teams?
+Do you enjoy problem solving on the spot?
+Do you like handling logistics?
+Do you enjoy learning about cultures?
+
+#Other_Subfield_5
+Do you enjoy working outdoors?
+Do you like studying plants and environment?
+Do you prefer sustainable practices?
+Do you enjoy research in agriculture and environment?
+Do you like helping communities with environment and farming?
+Do you enjoy monitoring ecosystems?
+Do you like developing sustainable solutions?
+Do you enjoy policy advocacy for environment?
+Do you like data collection in the field?
+Do you enjoy educating others about environment?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
