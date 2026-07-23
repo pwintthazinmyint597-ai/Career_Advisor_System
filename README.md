@@ -76,6 +76,31 @@ Each category contains multiple career options along with:
 
 ---
 
+## Project Structure
+
+```text
+Career-Advisor-System/
+│
+├── main.cpp
+├── career.txt
+├── savedcareer.txt
+├── README.md
+└── (other source files if applicable)
+```
+
+---
+
+## 🚀 How to Run
+
+1. Open the project in **Code::Blocks**.
+2. Build and compile the project.
+3. Run the application.
+4. Choose an option from the main menu.
+5. Follow the on-screen instructions.
+
+
+---
+
 ## Learning Objectives
 
 This project was developed to practice and demonstrate:
