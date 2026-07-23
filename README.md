@@ -90,7 +90,7 @@ Career-Advisor-System/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the project in **Code::Blocks**.
 2. Build and compile the project.
